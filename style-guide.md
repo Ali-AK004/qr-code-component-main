@@ -9,10 +9,10 @@ The designs were created to the following widths:
 
 ## Colors
 
-- White: hsl(0, 0%, 100%)
-- Light gray: hsl(212, 45%, 89%)
-- Grayish blue: hsl(220, 15%, 55%)
-- Dark blue: hsl(218, 44%, 22%)
+--clr-White: hsl(0, 0%, 100%);
+--clr-Light_gray: hsl(212, 45%, 89%);
+--clr-Grayish_blue: hsl(220, 15%, 55%);
+--clr-Dark_blue: hsl(218, 44%, 22%);
 
 ## Typography
 
